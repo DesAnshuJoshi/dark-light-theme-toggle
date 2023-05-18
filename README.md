@@ -55,14 +55,6 @@ yarn start
 
 5. Open your web browser and visit `http://localhost:3000` to see the application running with the default theme.
 
-
-## Technologies
-
-* React JS: The project is built using React JS, a popular JavaScript library for building user interfaces.
-
-* CSS: CSS is used to style the application components based on the selected theme.## Usage
-
-Once the application is running, you can toggle between the dark and light themes by clicking on the toggle button provided. The selected theme will be applied instantly to the application. Additionally, the selected theme will be persisted in the browser's local storage, so the next time you visit the application, the previously selected theme will be automatically applied.
 ## Usage
 
 Once the application is running, you can toggle between the dark and light themes by clicking on the toggle button provided. The selected theme will be applied instantly to the application. Additionally, the selected theme will be persisted in the browser's local storage, so the next time you visit the application, the previously selected theme will be automatically applied.
@@ -74,3 +66,10 @@ If you want to customize the themes or extend the functionality, you can modify 
 * `src/styles.css`: This file contains the CSS styles for the application components.
 
 Feel free to modify the colors, styles, or add additional themes to suit your preferences.
+## License
+
+This project is licensed under the MIT License. Feel free to use and modify the code as per the terms of the license.
+## Acknowledgements
+
+- [React JS](https://reactjs.org): A JavaScript library for building user interfaces.
+- [Create React App](https://create-react-app.dev): A tool for quickly setting up React projects.
